@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Alarm Clock</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_alarm_exists">Alarm is exists!</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="notification_title">Alarm clock</string>
+</resources>
